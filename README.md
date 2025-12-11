@@ -1,4 +1,3 @@
-````markdown
 # linux-priv-esc-audit
 
 `linux-priv-esc-audit.sh` is a **dual-mode Linux privilege escalation & hardening audit script** written in Bash.
