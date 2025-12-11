@@ -306,5 +306,3 @@ This script is intended for **defensive and auditing purposes only**.
 * Use it on systems you own or are explicitly authorized to audit.
 * It does **not** exploit anything by itself, it only **enumerates** and flags potential weak points.
 * Always review findings manually before drawing conclusions.
-
-```
